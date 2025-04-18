@@ -49,7 +49,7 @@ document.body.addEventListener('keypress', function () {
 });
 
 
-const images = ['images/bg1.jpg', 'images/bg2.jpg', 'images/bg3.jpg', 'images/bg4.jpg', 'images/bg5.jpg', 'images/bg6.jpg'];
+const images = ['images/bg1.JPG', 'images/bg2.JPG', 'images/bg3.JPG', 'images/bg4.JPG', 'images/bg5.JPG', 'images/bg6.JPG'];
 let currentImageIndex = 0;
 
 document.body.addEventListener('click', function () {
